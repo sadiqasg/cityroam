@@ -1,0 +1,25 @@
+body {
+  font-family: "Josefin Sans";
+  height: 100%;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  background-color: rgb(253, 253, 253);
+}
+#searchCol {
+  border-top: 2px solid #0033ff;
+}
+#top-section > .row {
+  text-align: center;
+  box-shadow: #c0c0c0 0 0 5px;
+  margin: 15vh 0 25vh 0;
+  padding: 5vh 0;
+}
+.b {
+  border-radius: 5px;
+}
+.homeCards {
+  box-shadow: #c0c0c0 0 0 2px;
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+}

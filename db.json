@@ -1,0 +1,33 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "name": "sadiq",
+      "email": "sadiqasg@gmail.com",
+      "password": "superadmin"
+    }
+  ],
+  "users": [],
+  "states": [
+    {
+      "id": 1,
+      "stateName": "FCT"
+    },
+    {
+      "id": 2,
+      "stateName": "Lagos"
+    }
+  ],
+  "homes": [
+    {
+      "id": 1,
+      "imageUrl": "",
+      "rooms": 2,
+      "type": "flat",
+      "location": "123 avenue",
+      "state": "Abuja",
+      "price": 1000,
+      "homeOwner": "john doe"
+    }
+  ]
+}

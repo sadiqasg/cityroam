@@ -1,0 +1,17 @@
+{
+  "name": "cityroam",
+  "version": "1.0.0",
+  "description": "rent homes and apartments",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rent",
+    "homes",
+    "apartments",
+    "houses"
+  ],
+  "author": "abubakar sadiq sambo",
+  "license": "ISC"
+}
