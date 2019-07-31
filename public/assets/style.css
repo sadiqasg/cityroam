@@ -23,3 +23,11 @@ body {
   margin-top: 1rem;
   padding-bottom: 1rem;
 }
+
+#top-div {
+  background: url('../crib2.jpeg') no-repeat;
+  background-size: cover;
+}
+#top-sub-div {
+  background: rgba(0, 0, 0, 0.4);
+}
